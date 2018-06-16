@@ -5,9 +5,9 @@
 
 
 ```
-scr
+src
 |- main.tex
-  - sections
+ - sections
     |- section1.tex
     |- section2.tex
     |- section3.tex
